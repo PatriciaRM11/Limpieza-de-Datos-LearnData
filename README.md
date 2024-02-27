@@ -1,11 +1,13 @@
 Proyecto Limpieza de datos - LearnData
 
 📋Descripción del Proyecto
+
 El proyecto de limpieza de datos con SQL tiene como objetivo principal mejorar la calidad y confiabilidad de los conjuntos de datos utilizados en las organizaciones.
 Los datos desempeñan un papel fundamental en la toma de decisiones y la generación de informes, por lo que es esencial garantizar que estén libres de errores, inconsistencias y duplicados.
 Por lo cual vamos a realizar algunas tareas de limpieza de datos para nuestro cliente LearnData.
 
 🎯El objetivo de este proyecto
+
 •	Creación de una base de datos
 •	Identificar y Corregir Inconsistencias
 •	Detección y Eliminación de Duplicados
